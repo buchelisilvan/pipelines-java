@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/cabteam4/cabproject/_apis/build/status/buchelisilvan.pipelines-java?branchName=master)](https://dev.azure.com/cabteam4/cabproject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
